@@ -28,5 +28,5 @@ Where I Want to Go:
 	•	Want to understand when to use basic concepts (mean, median, mode) versus more advanced techniques like KNN and regression.
 	•	Passionate about going deep into subjects and curious to learn advanced analytics techniques.
 	2.	Seeking Mentorship:
-	•	Looking for a mentor to guide you in learning the foundations and practical applications of mathematical concepts in data analytics from the ground up.
+	•	Looking for a mentor to guide me in learning the foundations and practical applications of mathematical concepts in data analytics from the ground up.
 
