@@ -8,7 +8,7 @@ Where I have Been:
 	•	Struggled with mathematics during college but persisted by relearning it from scratch and eventually passed all courses.
 	2.	Work Experience:
 	•	Worked as a web developer in Bangalore but didn’t feel a deep connection to it.
-	•	Returned to Kashmir due to family issues and started preparing for the <br> UPSC Civil Services exam, with psychology as your optional subject.
+	•	Returned to Kashmir due to family issues and started preparing for the  UPSC Civil Services exam, with psychology as your optional subject.
 	3.	UPSC Preparation:
 	•	Studied subjects like economics, history, and government publications.
 	•	Realized that India’s development challenges stem from inefficient resource management.
