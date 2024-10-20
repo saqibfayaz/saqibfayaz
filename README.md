@@ -8,14 +8,14 @@ Where I have Been:
 	•	Struggled with mathematics during college but persisted by relearning it from scratch and eventually passed all courses.
 	2.	Work Experience:
 	•	Worked as a web developer in Bangalore but didn’t feel a deep connection to it.
-	•	Returned to Kashmir due to family issues and started preparing for the UPSC Civil Services exam, with psychology as your optional subject.
+	•	Returned to Kashmir due to family issues and started preparing for the <br> UPSC Civil Services exam, with psychology as your optional subject.
 	3.	UPSC Preparation:
 	•	Studied subjects like economics, history, and government publications.
 	•	Realized that India’s development challenges stem from inefficient resource management.
 	•	Gained an interest in data and the potential of data analytics to address resource management issues.
 	4.	Shift to Data Analytics:
 	•	Decided to pursue data analytics after failing the UPSC exam.
-	•	Completed the Google Data Analytics course on Coursera [Certificate Link](https://www.coursera.org/account/accomplishments/specialization/certificate/JK8REJ2GLCBS) as a starting point.
+	•	Completed the Google Data Analytics course on Coursera as a starting point.
 	•	Studied YouTube tutorials and read “Python for Data Analysis” by Wes McKinney.
 	•	Worked on several guided projects in data analytics, focusing on data preprocessing, wrangling, and plotting.
 	5.	Interest in Mathematics and Analytics:
