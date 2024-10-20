@@ -1,4 +1,4 @@
-## Hi there my name is Saqib Fayaz👋
+## Hi there, my name is Saqib Fayaz.👋
 
 
 Where I have Been:
